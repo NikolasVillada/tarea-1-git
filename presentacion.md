@@ -10,9 +10,9 @@ Me considero una persona creativa, responsable y curiosa, me gusta experimentar 
 
 ## Mis Hobbies
 1. Dibujar.
-![Imagen](imagenes/imagenes.jpeg)
+![Imagen](imagenes/imagenes.jpg)
 2. Ver series.
-![Imagen](imagenes/imagenes1.jpeg)
+![Imagen](imagenes/imagenes1.jpg)
 3. Escuchar Música. 
-![Imagen](imagenes/imagen2.jpeg)
+![Imagen](imagenes/imagen2.jpg)
 
