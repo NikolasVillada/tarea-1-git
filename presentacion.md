@@ -4,9 +4,11 @@ Markdown
 **Autor:** Nikolas Villada
 
 ## Descripción
-Este es el repositorio para la Tarea 1 del curso. El objetivo es demostrar el flujo de trabajo con Git y GitHub.
+Hola, mi nombre es Nikolas Villada; tengo 19 años y soy estudiante de diseño de la comunicación visual y producción audiovisual interactiva. Me interesa mucho el mundo audiovisual y gráfico como herramienta principal para comunicar ideas, contar historias y resolver problemas del día a día.
 
-## Pasos Realizados
-1. Creación del repositorio local.
-2. Creación de este archivo `presentacion.md`.
-3. Conexión con GitHub. 
+Me considero una persona creativa, responsable y curiosa, me gusta experimentar cosas nuevas.
+
+## Mis Hobbies
+1. Dibujar.
+2. Ver series.
+3. Escuchar Música. 
