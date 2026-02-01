@@ -1,4 +1,4 @@
-Markdown
+
 
 # Presentación del proyecto
 **Autor:** Nikolas Villada
@@ -10,5 +10,9 @@ Me considero una persona creativa, responsable y curiosa, me gusta experimentar 
 
 ## Mis Hobbies
 1. Dibujar.
+![Imagen](imagenes/imagenes.jpeg)
 2. Ver series.
+![Imagen](imagenes/imagenes1.jpeg)
 3. Escuchar Música. 
+![Imagen](imagenes/imagen2.jpeg)
+
