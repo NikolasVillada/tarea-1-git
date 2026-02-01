@@ -14,5 +14,5 @@ Me considero una persona creativa, responsable y curiosa, me gusta experimentar 
 2. Ver series.
 ![Imagen](imagenes/imagenes1.jpg)
 3. Escuchar Música. 
-![Imagen](imagenes/imagen2.jpg)
+![Imagen](imagenes/imagenes2.jpg)
 
